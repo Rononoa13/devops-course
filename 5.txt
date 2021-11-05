@@ -1,0 +1,1 @@
+I have added this file in devops folder where I initially created git repo. I will push this from the folder and pull in another folder where I cloned the repository.
